@@ -4,3 +4,5 @@ This folder highlights a few representative experiments I’ve designed or influ
 
 - [Pricing Elasticity A/B Test](./pricing-elasticity-ab-test.md)
 - [Conversational Agent Routing Test](./conversational-agent-routing-test.md)
+
+- [Sebastian order status case study](../case-studies/sebastian-order-status/) — escalation reduction via order-aware status cards
