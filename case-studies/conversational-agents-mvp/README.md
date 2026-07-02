@@ -20,7 +20,7 @@ Generic chatbots retrieve policy docs but fail on **transactional** questions (o
 
 ## Execution
 
-- Built demo repo: [conversational-ai-demo](https://github.com/asifalhye/conversational-ai-demo)
+- Built demo repo: [agentic-support-assistant](https://github.com/asifalhye/agentic-support-assistant)
 - Paired with portfolio case study: [Sebastian — Order Status](../sebastian-order-status/)
 
 ## Impact / Outcomes

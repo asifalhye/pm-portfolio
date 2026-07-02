@@ -34,7 +34,7 @@ This repo is a curated, public portfolio: case studies, experiment designs, and 
 | Repo | What it is |
 |---|---|
 | [**pm-portfolio**](https://github.com/asifalhye/pm-portfolio) | This portfolio — case studies, PRDs, experiment briefs |
-| [**conversational-ai-demo**](https://github.com/asifalhye/conversational-ai-demo) | Conversational agent with agentic RAG (demo / spike) |
+| [**agentic-support-assistant**](https://github.com/asifalhye/agentic-support-assistant) | Conversational agent with agentic RAG (demo / spike) |
 
 ---
 
