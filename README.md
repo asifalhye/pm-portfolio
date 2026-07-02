@@ -20,6 +20,9 @@ This repo is a curated, public portfolio: case studies, experiment designs, and 
 
 ## How I work
 
+> **Questions or feedback?** See [CONTRIBUTING.md](./CONTRIBUTING.md) or [Discussions](https://github.com/asifalhye/pm-portfolio/discussions).
+
+
 - **[Experiments](./experiments/)** — Hypothesis → design → metrics → decision (pricing elasticity, agent routing)
 - **[Playbooks](./playbooks/)** — Partnering with DS/Eng, framing pricing problems
 - **[Learning](./learning/)** — Roadmaps and notes on conversational agents
